@@ -9,3 +9,8 @@ https://github.com/fkie-cad/blackbox-opcua-fuzzing
 - PE-AFL    
 pe-afl combines static binary instrumentation on PE binary and WinAFL   
 https://github.com/wmliang/pe-afl
+
+
+https://github.com/JaanusKaapPublic/Vanapagan
+
+https://github.com/aflnet/aflnet
