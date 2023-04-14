@@ -21,7 +21,11 @@ https://github.com/Cisco-Talos/mutiny-fuzzer
 pe-afl combines static binary instrumentation on PE binary and WinAFL   
 https://github.com/wmliang/pe-afl
 
+- **tinyAFL**    
+TinyAFL is built on top of AFL and TinyInst.
 
+It can be fuzz on windows user-mode application without source (supports both x32 and x64) but it is not so reliable and dirty. It still has some instrument bugs, I will fix it when I fully understand TinyInst     
+https://github.com/linhlhq/TinyAFL    
 
 
 https://github.com/JaanusKaapPublic/Vanapagan
