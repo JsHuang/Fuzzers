@@ -31,3 +31,7 @@ https://github.com/linhlhq/TinyAFL
 https://github.com/JaanusKaapPublic/Vanapagan
 
 https://github.com/aflnet/aflnet
+
+## Web Fuzz    
+- **wFuzz**    
+  https://wfuzz.readthedocs.io/en/latest/
